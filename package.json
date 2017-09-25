@@ -1,0 +1,11 @@
+{
+  "name": "space-filling",
+  "version": "0.0.1",
+  "description": "space filling algorithms",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EagleLizard",
+  "license": "MIT"
+}
