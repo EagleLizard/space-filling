@@ -15,3 +15,10 @@ export abstract class Shape implements Shape{
     this.height = height;
   }
 }
+
+export function getDeadPoint(): Point{
+  return {
+    x: -1,
+    y: -1
+  };
+}
